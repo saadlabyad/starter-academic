@@ -3,7 +3,7 @@ title: Saad Labyad
 role: PhD student, University of Oxford
 avatar_filename: img_1297-4-.jpg
 bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+  programmable matter. w
 interests:
   - Machine Learning
   - Statistics
