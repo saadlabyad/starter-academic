@@ -27,7 +27,7 @@ organizations:
     url: https://www.maths.ox.ac.uk/
 education:
   courses:
-    - course: "MSc in Mathematical and Computational Finance "
+    - course: MSc in Mathematical and Computational Finance
       institution: University of Oxford
       year: 2018
     - course: MEng in Applied Mathematics
