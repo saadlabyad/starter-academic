@@ -39,4 +39,4 @@ highlight_name: false
 ---
 I am a third year PhD student in Mathematics at the University of Oxford, supervised by Professor Samuel Cohen and Professor Alvaro Cartea. My research interests lie in theoretical and applied statistical learning, stochastic modelling and algorithmic trading.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/saad_labyad_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
