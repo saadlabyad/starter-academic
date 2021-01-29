@@ -9,6 +9,12 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/saadlabyad
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/saad-labyad
   - icon: envelope
     icon_pack: fas
     link: /#contact
@@ -18,23 +24,17 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Mathematical Institute, University of Oxford
     url: https://www.maths.ox.ac.uk/
 education:
   courses:
-    - course: MEng in Applied Mathematics
-      institution: Ecole Centrale de Paris
-      year: 2017
     - course: "MSc in Mathematical and Computational Finance "
       institution: University of Oxford
       year: 2018
+    - course: MEng in Applied Mathematics
+      institution: Ecole Centrale de Paris
+      year: 2017
 email: ""
 superuser: true
 highlight_name: false
