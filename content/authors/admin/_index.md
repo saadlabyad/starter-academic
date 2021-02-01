@@ -1,6 +1,6 @@
 ---
 title: Saad Labyad
-role: PhD student, University of Oxford
+role: PhD candidate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
