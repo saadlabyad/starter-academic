@@ -38,6 +38,4 @@ highlight_name: false
 ---
 I am a third year PhD student in Mathematics at the University of Oxford, supervised by Professor [Samuel Cohen](http://people.maths.ox.ac.uk/cohens/) and Professor [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home). My current research interests lie in point processes and their applications to study high frequency financial data.
 
-Also post.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/saad_labyad_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
